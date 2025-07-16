@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/2013xile-openapi2mcptools-badge.png)](https://mseep.ai/app/2013xile-openapi2mcptools)
+
 # OPENAPI Specifications => MCP (Model Context Protocol) Tools
 
 - 🔧 An utility library for converting OpenAPI specifications to MCP tools.   
